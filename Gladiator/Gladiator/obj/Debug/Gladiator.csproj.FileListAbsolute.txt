@@ -1,0 +1,6 @@
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\obj\Debug\Gladiator.csprojResolveAssemblyReference.cache
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\bin\Debug\Gladiator.exe.config
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\bin\Debug\Gladiator.exe
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\bin\Debug\Gladiator.pdb
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\obj\Debug\Gladiator.exe
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\obj\Debug\Gladiator.pdb
