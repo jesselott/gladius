@@ -1,0 +1,18 @@
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\obj\Debug\Gladiator.csprojResolveAssemblyReference.cache
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\bin\Debug\Gladiator.exe.config
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\bin\Debug\Gladiator.exe
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\bin\Debug\Gladiator.pdb
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\obj\Debug\Gladiator.exe
+c:\users\jesse\documents\visual studio 2015\Projects\Gladiator\Gladiator\obj\Debug\Gladiator.pdb
+C:\Users\texas\Documents\programs\Gladiator\Gladiator\bin\Debug\Gladiator.exe.config
+C:\Users\texas\Documents\programs\Gladiator\Gladiator\obj\Debug\Gladiator.exe
+C:\Users\texas\Documents\programs\Gladiator\Gladiator\obj\Debug\Gladiator.pdb
+C:\Users\texas\Documents\programs\Gladiator\Gladiator\bin\Debug\Gladiator.exe
+C:\Users\texas\Documents\programs\Gladiator\Gladiator\bin\Debug\Gladiator.pdb
+C:\Users\texas\Documents\programs\Gladiator\Gladiator\obj\Debug\Gladiator.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\Gladiator(edit)\Gladiator\Gladiator\bin\Debug\Gladiator.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\Gladiator(edit)\Gladiator\Gladiator\obj\Debug\Gladiator.exe
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\Gladiator(edit)\Gladiator\Gladiator\obj\Debug\Gladiator.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\Gladiator(edit)\Gladiator\Gladiator\obj\Debug\Gladiator.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\Gladiator(edit)\Gladiator\Gladiator\bin\Debug\Gladiator.exe
+C:\Users\wwstudent\Documents\Visual Studio 2013\Projects\Gladiator(edit)\Gladiator\Gladiator\bin\Debug\Gladiator.pdb
